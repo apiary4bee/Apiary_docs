@@ -5,9 +5,9 @@ Android APP [тут](https://github.com/Ivan-Bdgilko/Android_Apk)
 Оновлення прошивки [тут](https://github.com/Ivan-Bdgilko/Hive_Controller)
 
 Замовити можна тут:
- - [apkua](https://apkua.com/ua/agroboard/i-502780/vagi-pasichni-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki/)
  - [OLX](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
-
+ - [apkua](https://apkua.com/ua/agroboard/i-502780/vagi-pasichni-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki/)
+ 
 ### Короткий опис 
 - Тривалий період автономної роботи більше 3 місяців
 - Не потрібен Internet для пристрою - мінімальний пакет GSM або друга картка на Вашому ж номері. 0 - за зв'язок, тільки SMS
