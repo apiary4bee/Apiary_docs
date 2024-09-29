@@ -1,5 +1,7 @@
 Інструкція користувача [.pdf](https://github.com/Ivan-Bdgilko/Apiary_Docs/blob/main/Manual%20User.pdf)
 
+Відео інструкції [youtube](https://www.youtube.com/@BeeApiary)
+
 Android APP [тут](https://github.com/Ivan-Bdgilko/Android_Apk)
 
 Оновлення прошивки [тут](https://github.com/Ivan-Bdgilko/Hive_Controller)
