@@ -7,7 +7,7 @@ Android APP [тут](https://github.com/Ivan-Bdgilko/Android_Apk)
 Оновлення прошивки [тут](https://github.com/Ivan-Bdgilko/Hive_Controller)
 
 Замовити можна тут:
- - [OLX](https://www.olx.ua/d/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+ - [OLX](https://www.olx.ua/d/uk/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDXotfS.html)
  - [apkua](https://apkua.com/ua/agroboard/i-502780/vagi-pasichni-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki/)
  
 ### Короткий опис 
