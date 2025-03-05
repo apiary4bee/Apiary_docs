@@ -1,6 +1,6 @@
 Інструкція користувача [.pdf](https://github.com/Ivan-Bdgilko/Apiary_Docs/blob/main/Manual%20User.pdf)
 
-Відео інструкції [youtube](https://www.youtube.com/@BeeApiary)
+Відео інструкції [youtube](https://www.youtube.com/@Apiary4bee)
 
 Android APP [тут](https://github.com/Ivan-Bdgilko/Android_Apk)
 
